@@ -1,6 +1,4 @@
 
-
-<h3 align="center">Connect with me:</h3>
 <img data-visualcompletion="media-vc-image" alt="May be a graphic of 1 person and text that says 'CREATE MOBILE APPLICATIONS will be created beauty mobile application as requirement happy journey +8801832708874'" class="x1bwycvy x193iq5w x4fas0m x19kjcj4" referrerpolicy="origin-when-cross-origin" src="https://scontent.fjsr11-1.fna.fbcdn.net/v/t39.30808-6/418563561_3355504268074005_2621830909337989459_n.png?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=783fdb&amp;_nc_eui2=AeEFsXYAfJcFcZkE_5hT6rnV97L_hKxp1833sv-ErGnXzUoWNI33C4170-JdROaHwce9bPVPRFuDDPPwnJa8Q6_5&amp;_nc_ohc=K6mDrfjqec8AX_kgBS8&amp;_nc_ht=scontent.fjsr11-1.fna&amp;oh=00_AfBD-yjNQ9fevHad65V4Rvuq-qnJto1tKMRx-cbFNuKlqw&amp;oe=65A30CBF">
 <p align="left">
 </p>
