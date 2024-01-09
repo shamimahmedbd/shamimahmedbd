@@ -1,7 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shamim Ahmed</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-- ⚡ Fun fact **i am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
